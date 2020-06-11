@@ -1,6 +1,6 @@
 # TMDb-movie-data-analysis
 ## Description:
-This is a Udacity Nano dgegree project to investigate insight of the TMDb data to draw up meaningful conclusions by producing statistical summaries and visualisations. Steps included: Data Wrangling, Exploratory Data Analysis
+This is a Udacity Nano dgegree project to investigate insight of the TMDb data to draw up meaningful conclusions by producing statistical summaries and visualisations. Steps included: Data Wrangling, Exploratory and Explanatory Data Analysis
 ### Installation:
 Install Anaconda from https://www.anaconda.com/download/  
 update all the packages in the default environment  
